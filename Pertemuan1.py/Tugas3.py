@@ -20,11 +20,11 @@ hasil = simplify_logic(ekspresi)
 # hasil
 print("Ekspresi awal :", ekspresi)
 print("Hasil sederhana :", hasil)
-
- # Dari sini ke atas adalah kode yang saya gunakan
-
 # Verifikasi
 # print("Terbukti :", hasil == a)
+
+# Dari sini ke atas adalah kode yang saya gunakan (untuk bagian verivikasi saya memilih untuk tidak menggunakan)
+
 
 # from sympy import symbols, simplify_logic
 # from sympy.logic.boolalg import And, Or
