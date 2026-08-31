@@ -15,7 +15,8 @@ def alarm(s1, s2, s3):
 print("s1 s2 s3 | alarm")
 for s1, s2, s3 in product([0, 1], repeat=3):
     print(s1, s2, s3, "|", int(bool(alarm(s1, s2, s3))))
-
+    
+ # Dari sini ke atas adalah kode yang saya gunakan
 
 
 # coba 2
