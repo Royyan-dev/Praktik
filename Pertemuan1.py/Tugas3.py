@@ -21,6 +21,8 @@ hasil = simplify_logic(ekspresi)
 print("Ekspresi awal :", ekspresi)
 print("Hasil sederhana :", hasil)
 
+ # Dari sini ke atas adalah kode yang saya gunakan
+
 # Verifikasi
 # print("Terbukti :", hasil == a)
 
