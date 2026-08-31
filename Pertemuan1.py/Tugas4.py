@@ -26,6 +26,9 @@ def sama(f, g, n):
 # Pengujian
 print("Apakah f dan g sama?", sama(f, g, 3))
 
+# Dari sini ke atas adalah kode yang saya gunakan
+
+
 # # coba 2
 # from itertools import product
 
