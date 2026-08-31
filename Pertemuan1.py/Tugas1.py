@@ -22,6 +22,8 @@ ekspresi = And(Or(a, b),Or(Not(a), c))
 print("Ekspresi asli  :", ekspresi)
 print("Hasil sederhana:", simplify_logic(ekspresi))
 
+# Dari sini ke atas adalah kode yang saya gunakan
+# Code di bawah ini belum mau saya hapus karena saya ingin menyimpannya sebagai arsip percobaan saya.
 
 # Coba 2
 # from itertools import product
